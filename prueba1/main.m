@@ -22,5 +22,6 @@ int main(int argc, const char * argv[]) {
 
 int main(){
     printf("Hola Mundo !!\n");
+    printf("Adiós Mundo !!\n");
     return EXIT_SUCCESS;
 }
